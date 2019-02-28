@@ -1,0 +1,17 @@
+C:\Users\mcyal\Source\Repos\pandora25\fizzbuzz_tdd\FizzBuzzTdd\FizzBuzz.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mcyal\Source\Repos\pandora25\fizzbuzz_tdd\FizzBuzzTdd\FizzBuzz.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mcyal\Source\Repos\pandora25\fizzbuzz_tdd\FizzBuzzTdd\FizzBuzz.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mcyal\Source\Repos\pandora25\fizzbuzz_tdd\FizzBuzzTdd\FizzBuzz.Tests\bin\Debug\netcoreapp2.1\FizzBuzz.Tests.deps.json
+C:\Users\mcyal\Source\Repos\pandora25\fizzbuzz_tdd\FizzBuzzTdd\FizzBuzz.Tests\bin\Debug\netcoreapp2.1\FizzBuzz.Tests.runtimeconfig.json
+C:\Users\mcyal\Source\Repos\pandora25\fizzbuzz_tdd\FizzBuzzTdd\FizzBuzz.Tests\bin\Debug\netcoreapp2.1\FizzBuzz.Tests.runtimeconfig.dev.json
+C:\Users\mcyal\Source\Repos\pandora25\fizzbuzz_tdd\FizzBuzzTdd\FizzBuzz.Tests\bin\Debug\netcoreapp2.1\FizzBuzz.Tests.dll
+C:\Users\mcyal\Source\Repos\pandora25\fizzbuzz_tdd\FizzBuzzTdd\FizzBuzz.Tests\bin\Debug\netcoreapp2.1\FizzBuzz.Tests.pdb
+C:\Users\mcyal\Source\Repos\pandora25\fizzbuzz_tdd\FizzBuzzTdd\FizzBuzz.Tests\bin\Debug\netcoreapp2.1\FizzBuzz.Core.dll
+C:\Users\mcyal\Source\Repos\pandora25\fizzbuzz_tdd\FizzBuzzTdd\FizzBuzz.Tests\bin\Debug\netcoreapp2.1\FizzBuzz.Core.pdb
+C:\Users\mcyal\Source\Repos\pandora25\fizzbuzz_tdd\FizzBuzzTdd\FizzBuzz.Tests\obj\Debug\netcoreapp2.1\FizzBuzz.Tests.csprojAssemblyReference.cache
+C:\Users\mcyal\Source\Repos\pandora25\fizzbuzz_tdd\FizzBuzzTdd\FizzBuzz.Tests\obj\Debug\netcoreapp2.1\FizzBuzz.Tests.csproj.CoreCompileInputs.cache
+C:\Users\mcyal\Source\Repos\pandora25\fizzbuzz_tdd\FizzBuzzTdd\FizzBuzz.Tests\obj\Debug\netcoreapp2.1\FizzBuzz.Tests.AssemblyInfoInputs.cache
+C:\Users\mcyal\Source\Repos\pandora25\fizzbuzz_tdd\FizzBuzzTdd\FizzBuzz.Tests\obj\Debug\netcoreapp2.1\FizzBuzz.Tests.AssemblyInfo.cs
+C:\Users\mcyal\Source\Repos\pandora25\fizzbuzz_tdd\FizzBuzzTdd\FizzBuzz.Tests\obj\Debug\netcoreapp2.1\FizzBuzz.Tests.csproj.CopyComplete
+C:\Users\mcyal\Source\Repos\pandora25\fizzbuzz_tdd\FizzBuzzTdd\FizzBuzz.Tests\obj\Debug\netcoreapp2.1\FizzBuzz.Tests.dll
+C:\Users\mcyal\Source\Repos\pandora25\fizzbuzz_tdd\FizzBuzzTdd\FizzBuzz.Tests\obj\Debug\netcoreapp2.1\FizzBuzz.Tests.pdb

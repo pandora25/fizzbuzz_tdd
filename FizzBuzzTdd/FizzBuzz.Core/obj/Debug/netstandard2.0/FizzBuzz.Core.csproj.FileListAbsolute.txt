@@ -1,0 +1,9 @@
+C:\Users\mcyal\Source\Repos\pandora25\fizzbuzz_tdd\FizzBuzzTdd\FizzBuzz.Core\bin\Debug\netstandard2.0\FizzBuzz.Core.deps.json
+C:\Users\mcyal\Source\Repos\pandora25\fizzbuzz_tdd\FizzBuzzTdd\FizzBuzz.Core\bin\Debug\netstandard2.0\FizzBuzz.Core.dll
+C:\Users\mcyal\Source\Repos\pandora25\fizzbuzz_tdd\FizzBuzzTdd\FizzBuzz.Core\bin\Debug\netstandard2.0\FizzBuzz.Core.pdb
+C:\Users\mcyal\Source\Repos\pandora25\fizzbuzz_tdd\FizzBuzzTdd\FizzBuzz.Core\obj\Debug\netstandard2.0\FizzBuzz.Core.csprojAssemblyReference.cache
+C:\Users\mcyal\Source\Repos\pandora25\fizzbuzz_tdd\FizzBuzzTdd\FizzBuzz.Core\obj\Debug\netstandard2.0\FizzBuzz.Core.csproj.CoreCompileInputs.cache
+C:\Users\mcyal\Source\Repos\pandora25\fizzbuzz_tdd\FizzBuzzTdd\FizzBuzz.Core\obj\Debug\netstandard2.0\FizzBuzz.Core.AssemblyInfoInputs.cache
+C:\Users\mcyal\Source\Repos\pandora25\fizzbuzz_tdd\FizzBuzzTdd\FizzBuzz.Core\obj\Debug\netstandard2.0\FizzBuzz.Core.AssemblyInfo.cs
+C:\Users\mcyal\Source\Repos\pandora25\fizzbuzz_tdd\FizzBuzzTdd\FizzBuzz.Core\obj\Debug\netstandard2.0\FizzBuzz.Core.dll
+C:\Users\mcyal\Source\Repos\pandora25\fizzbuzz_tdd\FizzBuzzTdd\FizzBuzz.Core\obj\Debug\netstandard2.0\FizzBuzz.Core.pdb
